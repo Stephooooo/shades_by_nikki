@@ -11,7 +11,7 @@ function Services() {
     <div>
     
     <div className=' relative'>
-    <img src='../img/pic_1.jpg' alt='#' className=' md:h-[300px] lg:h-[450px] relative w-full'/>
+    <img src='../img/pic_1.jpg' alt='#' className=' md:h-[400px] lg:h-[450px] relative w-full'/>
     <div className='absolute left-4 top-1'>
     
     <h1 className='font-bold text-[30px]  text-white pt-20 '> Welcome to Shades by Nikki </h1>

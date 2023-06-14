@@ -70,7 +70,7 @@ function AboutUs() {
     <img src='../img/pic_10.jpg' className='w-full md:h-[300px] lg:h-[350px] '/>
     <div className='absolute left-4 top-1'>
     <h1 className='font-bold text-[20px] text-gold pt-10'> COMING SOON </h1>
-    <h1 className=' text-[25px] text-white mb-4 mt-5 '>We are looking to launch a new blog section soon!
+    <h1 className=' text-[20px] text-white mb-4 mt-5 '>We are looking to launch a new blog section soon!
    <br/> For all things beauty, tips, hacks, trends, tutorials and so much more. <br/> Stay Tuned! </h1>
     
 

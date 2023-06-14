@@ -18,7 +18,7 @@ function ContactUs () {
     <div className='relative'>
     <h1 className='text-gold text-[20px] font-bold pt-10 ml-4 '> CONTACT INFORMATION </h1>
     <h1 className='text-white text-[25px] font-bold ml-4'> We are happy to hear from you!</h1>
-    <div className='bg-white rounded-md mx-10 mt-20 pb-10 drop-shadow-xl'>
+    <div className='bg-white rounded-md mx-5 mt-20 pb-10 drop-shadow-xl'>
 
     <div className='md:columns-1 lg:columns-2'>
 
